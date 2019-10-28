@@ -6,4 +6,6 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 target 'AccountModule_Category' do
 
+  pod 'CCMediator', :source => 'https://github.com/iOSShop/ModularizationPod.git'
+  
 end
